@@ -102,7 +102,7 @@ const Hero = () => {
             <div ref={mountainRightRef} className='absolute -right-90 md:-right-90 -z-0 flex top-48 md:top-48 justify-center'>
                 <img src="/mountainbg2.png" alt="thunderbolt" className='w-full h-full object-contain' />
             </div>
-         
+
 
         </div>
     )
